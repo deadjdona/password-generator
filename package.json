@@ -33,7 +33,7 @@
     "grunt-contrib-jshint": "^3.0.0",
     "grunt-contrib-uglify": "^5.0.1",
     "grunt-contrib-watch": "^1.1.0",
-    "mocha": "9.1.1"
+    "mocha": "10.1.0"
   },
   "scripts": {
     "test": "make test",
